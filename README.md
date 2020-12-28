@@ -3,8 +3,9 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=ricardoianelli.ricardoianelli)
 
 ## :triangular_flag_on_post: Technical skills
-- Programming languages: C, C++, C#, Java, Verilog, VHDL, SystemVerilog
-- Misc: Linux Drivers | Linux Kernel | High-Level Synthesis (HLS) | FPGAs |  Embedded Systems| Git | Domain-Specific Languages| SoC Verification | Cmake | Makefiles | NEC Vector Machine | APIs| Xilinx | Maven | ANTLR | Medium Blogs | Ceph | iSCSI | 
+- ##Programming languages: C, C++, C#, Java, Verilog, VHDL, SystemVerilog
+
+- ##Misc: Linux Drivers | Linux Kernel | High-Level Synthesis (HLS) | FPGAs |  Embedded Systems| Git | Domain-Specific Languages| SoC Verification | Cmake | Makefiles | NEC Vector Machine | APIs| Xilinx | Maven | ANTLR | Medium Blogs | Ceph | iSCSI | 
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
@@ -12,7 +13,6 @@
 
 - 👨🏽‍💻 Mainly a embedded systems programmer;
 - 🌱 I’m currently workig as a PhD student; 
-- 💬 Ask me about anything, I am happy to help.;
 - 📫 reach me: [@Linkedin](https://www.linkedin.com/in/babar-khan-698b6679/);
 - 📫 reach me: [@Medium](https://bzamankhan.medium.com/);
 
