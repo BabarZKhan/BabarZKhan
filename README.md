@@ -15,7 +15,7 @@
 - 👨🏽‍💻 Mainly a .Net developer, but also someone who loves digital games;
 - 🌱 I’m currently workig as a PhD student; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@](https://www.linkedin.com/in/babar-khan-698b6679/);
+- 📫 How to reach me: (https://www.linkedin.com/in/babar-khan-698b6679/);
 - 📫 How to reach me: [@bzamankhan](https://bzamankhan.medium.com/);
 
 ## :hammer: Languages and Tools
@@ -25,22 +25,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-## 💬 For know more about me:
-
-<a href="https://www.linkedin.com/in/babar-khan-698b6679/">
-  <img align="left" alt="Babar's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://bzamankhan.medium.com/">
-  <img align="left" alt="Babar's medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-<br />
-<br />
-
-![Babar's github stats](https://github-readme-stats.vercel.app/api?username=ricardoianelli&count_private=true&show_icons=true&theme=algolia) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoianelli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**ricardoianelli/ricardoianelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
