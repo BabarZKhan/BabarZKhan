@@ -12,6 +12,7 @@
 
 ## About
 
+-  :tv: 
 - 👨🏽‍💻 Mainly a embedded systems programmer;
 - 🌱 I’m currently workig as a PhD student; 
 - 📫 reach me: [@Linkedin](https://www.linkedin.com/in/babar-khan-698b6679/);
