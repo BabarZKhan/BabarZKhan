@@ -5,11 +5,11 @@
 ## :triangular_flag_on_post: Technical skills
 - **Programming languages**: C, C++, C#, Java, Verilog, VHDL, SystemVerilog
 
-- **Misc**: Linux Drivers | Linux Kernel | High-Level Synthesis (HLS) | FPGAs |  Embedded Systems| Git | Domain-Specific Languages| SoC Verification | Cmake | Makefiles | NEC Vector Machine | APIs| Xilinx | Maven | ANTLR | Medium Blogs | Ceph | iSCSI | Compilers
+- **Misc**: Linux Drivers | Linux Kernel | High-Level Synthesis (HLS) | FPGAs |  Embedded Systems| Git | Domain-Specific Languages| SoC Verification | Cmake | Makefiles | NEC Vector Machine | APIs| Xilinx | Maven | ANTLR | Ceph | iSCSI | Compilers | .NET
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-## :runner: About me
+## About me
 
 - 👨🏽‍💻 Mainly a embedded systems programmer;
 - 🌱 I’m currently workig as a PhD student; 
