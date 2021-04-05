@@ -16,8 +16,8 @@
 
    [@Linkedin](https://www.linkedin.com/in/babar-khan-698b6679/);
    [@Medium](https://bzamankhan.medium.com/);
-   [@website](https://babarzkhan.github.io/);
-   [@website](https://stackoverflow.com/users/10152674/bkn);
+   [@main_website(under construction)](https://babarzkhan.github.io/);
+   [@Stack Overflow](https://stackoverflow.com/users/10152674/bkn);
 
 ## :hammer: Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
