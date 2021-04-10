@@ -9,9 +9,7 @@
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-
 ## About
- 
 - 📫 reach me: 
 
    -  [@Linkedin](https://www.linkedin.com/in/babar-khan-698b6679/);
@@ -21,6 +19,8 @@
    -  [@main_website(under construction)](https://babarzkhan.github.io/);
    
    -  [@Stack Overflow](https://stackoverflow.com/users/10152674/bkn);
+   
+   -  [@cplusplus](https://www.cplusplus.com/);
 
 ## :hammer: Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
