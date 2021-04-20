@@ -7,7 +7,7 @@
 
 - **Misc**: Linux Drivers | Linux Kernel | High-Level Synthesis (HLS) | FPGAs |  Embedded Systems| Git | Domain-Specific Languages| SoC Verification | Cmake | Makefiles | NEC Vector Machine | APIs| Xilinx | Maven | ANTLR | Ceph | iSCSI | Compilers | .NET | Wireshark
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/BabarZKhan/BabarZKhan/blob/main/PYNQ.jpg" width="500" height="320" />
 
 ## About
 - 📫 reach me: 
