@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Babar Khan! 
+### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ricardoianelli.ricardoianelli)
 
@@ -7,7 +7,7 @@
 
 - **Misc**: Linux Drivers | Linux Kernel | High-Level Synthesis (HLS) | FPGAs |  Embedded Systems| Git | Domain-Specific Languages| SoC Verification | Cmake | Makefiles | NEC Vector Machine | APIs| Xilinx | Maven | ANTLR | Ceph | iSCSI | Compilers | .NET | Wireshark
 
- <img align="right" alt="GIF" src="https://github.com/BabarZKhan/BabarZKhan/blob/main/PYNQ.jpg" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/BabarZKhan/BabarZKhan/blob/main/PYNQ-FPGA.jpg" width="500" height="320" />
 
 ## About
 - 📫 reach me: 
