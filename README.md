@@ -12,14 +12,10 @@
 ## About
 - 📫 reach me: 
 
-   -  [@Linkedin](https://www.linkedin.com/in/babar-khan-698b6679/);
-   
-   -  [@Random Blogs](https://bzamankhan.medium.com/);
-   
-   -  [@Stack Overflow](https://stackoverflow.com/users/10152674/bkn);
+ [@Linkedin](https://www.linkedin.com/in/babar-khan-698b6679/); [@Random Blogs](https://bzamankhan.medium.com/); [@Stack Overflow](https://stackoverflow.com/users/10152674/bkn);
   
  ## Talks
-   -[FOSDEM 2021](https://fosdem.org/2021/schedule/event/tee_hls/)
+  - [FOSDEM 2021](https://fosdem.org/2021/schedule/event/tee_hls/)
   - [embo C++ (accepted)](https://www.embo.io/speakers/)
 
 ## :hammer: Languages and Tools
