@@ -14,9 +14,9 @@
 
    -  [@Linkedin](https://www.linkedin.com/in/babar-khan-698b6679/);
    
-   -  [@Medium](https://bzamankhan.medium.com/);
+   -  [@Random Blogs](https://bzamankhan.medium.com/);
    
-   -  [@main_website(under construction)](https://babarzkhan.github.io/);
+   -  [@Talks](https://fosdem.org/2021/schedule/event/tee_hls/,https://www.embo.io/speakers/);
    
    -  [@Stack Overflow](https://stackoverflow.com/users/10152674/bkn);
   
