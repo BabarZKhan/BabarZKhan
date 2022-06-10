@@ -12,7 +12,8 @@
 ## About
 - 📫 reach me: 
 
- [@Linkedin](https://www.linkedin.com/in/babar-khan-698b6679/); [@Random Blogs](https://bzamankhan.medium.com/); [@Stack Overflow](https://stackoverflow.com/users/10152674/bkn);
+ - [@Linkedin](https://www.linkedin.com/in/babar-khan-698b6679/); 
+ - [@Stack Overflow](https://stackoverflow.com/users/10152674/bkn);
   
 
 ## :hammer: Languages and Tools
