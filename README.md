@@ -3,9 +3,9 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=ricardoianelli.ricardoianelli)
 
 ## Development: 
-- **Programming languages**: C | C++ | C# | Java | Verilog | VHDL | SystemVerilog
+- **Programming languages**: C | C++ | C# | Java | Verilog | VHDL | SystemVerilog 
 
-- **Misc**: Linux Drivers | Linux Kernel | High-Level Synthesis (HLS) | FPGAs |  Embedded Systems| Git | Domain-Specific Languages| SoC Verification | Cmake | Makefiles | NEC Vector Machine | APIs| Xilinx | Maven | ANTLR | Ceph | iSCSI | Compilers | .NET | Wireshark
+- **Misc**: AI Hardware Chips Linux Drivers (GPUs, FPGAs, ASICSs....xPUs) | Linux Kernel | High-Level Synthesis (HLS) | FPGAs |  Embedded Systems| Git | Domain-Specific Languages| SoC Verification | Cmake | Makefiles | NEC Vector Machine | APIs| Xilinx | Maven | ANTLR | Ceph | iSCSI | Compilers | .NET 
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
